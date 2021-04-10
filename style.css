@@ -1,0 +1,53 @@
+body
+{
+  text-align: center
+
+    
+}
+
+#About_Me
+{
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+#Apps
+{
+    background-color: white; 
+    font-family: sans-serif; 
+    color: black;
+}
+
+.line
+{
+   width: 35px; 
+   height: 5px;
+   background-color: aqua;
+   margin: 8px auto;
+}
+
+h1
+{
+   color: chartreuse;  
+}
+
+#chatbot
+{
+   background-color: dodgerblue;  
+}
+
+#games
+{
+    background-color: orangered;
+}
+
+img
+{
+    transition: transform .2s;
+}
+
+img:hover
+{
+    transform: scale(0.9);
+}
